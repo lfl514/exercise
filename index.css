@@ -1,0 +1,36 @@
+.center {
+    text-align: center;
+}
+
+h4 {
+    font-weight: 400;
+
+}
+
+p {
+    text-indent: 2em;
+}
+
+.box1 {
+    background-color: rgba(47, 0, 255, 0.027);
+    width: 30em;
+    /* height: 40sem; */
+}
+
+.box2 {
+    background-color: rgb(255, 30, 0);
+    width: 20em;
+    /* height: 40sem; */
+}
+
+.pink {
+    background-color: rgb(255, 205, 205);
+}
+
+.blue {
+    color: blue;
+}
+
+.clear-bottom {
+    display: block;
+}
